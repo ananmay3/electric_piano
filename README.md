@@ -15,6 +15,10 @@ You can then use the last button - the Playback Button - to playback whatever yo
 
 # Software
 
+pitches.h
+
+It contains all the pre-defined note frequencies.
+
 electronic_keyboard
 
 This is an arduino extension .iso file where the main code runs.
