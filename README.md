@@ -34,4 +34,4 @@ It then moves on to check if the ultrasonic button has been pressed, and then ag
 We then read the data incoming from the pins using an analogRead(). Each button corresponds to a different resistance, and therefore different analog values. The halfStepUp and HalfStepDown buttons here can be used to push up or down frequency by HalfStep.
 The if conditions finally execute the tone() function which sends data to the speaker.
 
-![alt text](https://raw.githubusercontent.com/ananmay3/electric_piano/master/circuit_img.jpg)
+![alt text](https://raw.githubusercontent.com/ananmay3/electric_piano/master/images/circuit_img.jpg)
